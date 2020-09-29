@@ -7,9 +7,7 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"text",
-		"minute",
-		"hour",
-		"day"
+		"date"
 	],
 	"name" : "TodoItem",
 	"type" : "normal"
