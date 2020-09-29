@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GladkyiTodo-Todo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"text",
+		"minute",
+		"hour",
+		"day"
+	],
+	"name" : "TodoItem",
+	"type" : "normal"
+}
